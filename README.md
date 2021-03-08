@@ -1,5 +1,5 @@
 
-## Asetto Corsa
+## Assetto Corsa
 
 Most AC mods use the game directory as their root. If not, create the parent folders yourself and move the directory in there during mod installation.
 Instead of using the official Assetto Corsa executable consider using the Content Manager which can be downloaded / bought at: https://assettocorsa.club/content-manager.html
