@@ -3,7 +3,7 @@
 
 Most AC mods use the game directory as their root. If not, create the parent folders yourself and move the directory in there during mod installation.
 Instead of using the official Assetto Corsa executable consider using the Content Manager which can be downloaded / bought at: https://assettocorsa.club/content-manager.html
-The Content Manager (which is then to be started via MO2) + the Custom Shader Patch will change Asetto Corsa in a modern and in my opinion one of the best racing games. The Content Manager does not have a good mod manager yet (Ilya is working on one), but meanwhile this will help you to install Assetto Corsa mods in a non-destructive way and keep track of versioning and add notes (download location etc.).
+The Content Manager (which is then to be started via MO2) + the Custom Shader Patch will change Assetto Corsa in a modern and in my opinion one of the best racing games. The Content Manager does not have a good mod manager yet (Ilya is working on one), but meanwhile this will help you to install Assetto Corsa mods in a non-destructive way and keep track of versioning and add notes (download location etc.).
 When using the Content Manager do not forget to install the track, car updates once in a while from inside the Custom Shader Patch and opening the '...' context menus. This will improve the tracks & cars by making them use the new features added by the Custom Shader Patch.
 
 ## Beam.NG Drive
